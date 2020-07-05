@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="12306.png">icon.png</file>
+        <file alias="all.png">all.png</file>
+        <file alias="replace.png">replace.png</file>
+        <file alias="search.png">search.png</file>
+    </qresource>
+</RCC>
