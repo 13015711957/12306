@@ -1,0 +1,7 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Collecting setuptools
+  Downloading https://mirrors.aliyun.com/pypi/packages/52/b4/2b8decca516c7139f2d262b6a0c5dcd6388d0a2d2c760c6bbc830e49347e/setuptools-48.0.0-py3-none-any.whl (786 kB)
+Collecting wheel
+  Using cached https://mirrors.aliyun.com/pypi/packages/8c/23/848298cccf8e40f5bbb59009b32848a4c38f4e7f3364297ab3c3e2e2cd14/wheel-0.34.2-py2.py3-none-any.whl (26 kB)
+Installing collected packages: setuptools, wheel
+Successfully installed setuptools-48.0.0 wheel-0.34.2
